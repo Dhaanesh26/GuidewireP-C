@@ -1,0 +1,21 @@
+Customer_ID,Customer_Name,Customer_Email,Amount
+101,John Doe,john@example.com,250.5
+102,Jane Smith,jane@example.com,300
+103,Mike Johnson,mikej@example.com,180.75
+104,Susan Lee,susanl@example.com,400
+105,David Kim,davidk@example.com,125.25
+106,Emma Watson,emmaw@example.com,350
+107,Chris Evans,chrise@example.com,500
+108,Nina Brown,ninab@example.com,220
+109,Peter Parker,spiderman@example.com,410.1
+110,Tony Stark,ironman@example.com,1000
+111,Bruce Wayne,batman@example.com,900
+112,Clark Kent,superman@example.com,850.5
+113,Diana Prince,wonderwoman@example.com,700
+114,Barry Allen,flash@example.com,600
+115,Arthur Curry,aquaman@example.com,450.25
+116,Steve Rogers,captain@example.com,780.4
+117,Natasha Romanoff,blackwidow@example.com,620.3
+118,Wanda Maximoff,scarlet@example.com,500
+119,Stephen Strange,strange@example.com,975
+120,Scott Lang,antman@example.com,320
